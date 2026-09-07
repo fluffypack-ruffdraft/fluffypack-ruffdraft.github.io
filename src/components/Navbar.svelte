@@ -9,17 +9,32 @@
 	@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 	@import url("https://fonts.googleapis.com/css2?family=Jersey+25&display=swap");
 
+	@media (orientation: portrait) {
+		nav {
+			justify-content: space-between;
+
+			a {
+				font-size: 5vw;
+			}
+		}
+	}
+
+	@media (orientation: landscape) {
+		nav {
+			gap: 5vw;
+			font-size: 2vw;
+			justify-content: center;
+		}
+	}
+
 	nav {
 		padding: 0.5rem;
 		width: 100%;
 		display: flex;
-		justify-content: center;
-		gap: 5rem;
 
 		a {
 			transform: scaleX(115%);
 			font-family: "Jersey 25";
-			font-size: 2rem;
 			padding-top: 0.5rem;
 			padding-bottom: 0.5rem;
 			padding-left: 1rem;

@@ -41,34 +41,61 @@
 		overflow: hidden;
 	}
 
-	.logo {
-		width: 50%;
+	@media (orientation: landscape) {
+		.logo {
+			width: 50%;
+		}
+
+		.button {
+			width: 12vw;
+		}
+
+		.buttons {
+			gap: 1.5vw;
+		}
+		span {
+			font-size: 1.25vw;
+			font-family: "Jersey 25";
+			transform: scaleX(130%);
+		}
+	}
+
+	@media (orientation: portrait) {
+		.logo {
+			width: 80%;
+		}
+
+		.button {
+			width: 35vw;
+			gap: 5vw;
+		}
+
+		.buttons {
+			gap: 10vw;
+		}
+
+		span {
+			font-size: 4vw;
+			font-family: "Jersey 25";
+			transform: scaleX(130%);
+		}
 	}
 
 	.buttons {
 		display: flex;
-		gap: 5rem;
 	}
 
 	.button {
 		color: white;
 		padding: 1rem;
-		width: 15rem;
 		box-shadow: 0.45rem 0.45rem 0px rgba(0, 0, 0, 30%);
 		text-shadow: 0px 0px 0.5rem rgba(0, 0, 0, 50%);
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		gap: 1.5rem;
 		transition: scale 0.1s;
 		outline: 6px solid rgba(255, 255, 255, 50%);
 		outline-offset: -6px;
-
-		span {
-			font-size: 1.25rem;
-			font-family: "Jersey 25";
-			transform: scaleX(130%);
-		}
 
 		&:hover {
 			scale: 103%;

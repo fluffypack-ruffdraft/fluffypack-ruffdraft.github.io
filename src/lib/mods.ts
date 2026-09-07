@@ -1,4 +1,5 @@
 import modData from "./data/mods";
+import rejectedModData from "./data/rejected_mods";
 
 export type ModTag =
 	| "Magic"
@@ -23,4 +24,6 @@ export type Mod = {
 };
 
 const mods = modData as Mod[];
-export { mods };
+const rejectedMods = rejectedModData as (Mod & { reason: string })[];
+
+export { mods, rejectedMods };
