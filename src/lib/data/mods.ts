@@ -605,7 +605,7 @@ export default [
 		tags: ["Utility", "Exploration"],
 		description: "Progression-heavy mod for building powerful gear and equipment from fighting challenging enemies.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm",
-		image: "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm",
+		image: "https://media.forgecdn.net/avatars/thumbnails/460/870/256/256/637739722679428303.png",
 	},
 	{
 		name: "Cat Jammies",
