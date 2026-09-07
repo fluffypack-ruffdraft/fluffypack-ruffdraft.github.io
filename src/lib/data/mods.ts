@@ -2963,7 +2963,7 @@ export default [
 	},
 	{
 		name: "Reliquary Reincarnations",
-		tags: ["Magic"],
+		tags: ["Magic", "Highlight"],
 		description: "A collection of magical items and blocks.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations",
 		image: "https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png",
@@ -3455,7 +3455,7 @@ export default [
 	},
 	{
 		name: "The Twilight Forest",
-		tags: ["Exploration"],
+		tags: ["Exploration", "Highlight"],
 		description: "Adds a new dimension called the twilight forest with a fully fleshed-out quest line.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
 		image: "https://media.forgecdn.net/avatars/thumbnails/14/212/256/256/635589178760357568.png",
