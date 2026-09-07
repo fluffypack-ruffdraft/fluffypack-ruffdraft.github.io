@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { levenshteinDistance } from "$lib";
 	import { SvelteSet } from "svelte/reactivity";
 	import background from "../../assets/images/background2.jpg";
 	import faq from "../../assets/images/faq.png";
@@ -35,23 +36,45 @@
 	let filterButton: HTMLElement | null = $state(null);
 	let filters: HTMLElement | null = $state(null);
 
-	let filteredMods = $derived(
-		mods
-			.filter(mod => {
-				let include = true;
+	let filteredMods = $derived.by(() => {
+		let filtered = mods.filter(mod => {
+			let include = true;
 
-				if (includedTags.size > 0) {
-					include = include && mod.tags.some(tag => includedTags.has(tag));
+			if (includedTags.size > 0) {
+				include = include && mod.tags.some(tag => includedTags.has(tag));
+			}
+
+			if (excludedTags.size > 0) {
+				include = include && !mod.tags.some(tag => excludedTags.has(tag));
+			}
+
+			return include;
+		});
+
+		if (searchText.match(/\S+/)) {
+			return filtered.toSorted((a, b) => {
+				let search = searchText.toLowerCase().replace(" ", "");
+				let first = a.name.toLowerCase().replace(" ", "");
+				let second = b.name.toLowerCase().replace(" ", "");
+
+				if (first.includes(search)) {
+					if (second.includes(search)) {
+						return first.length < second.length ? -1 : 1;
+					}
+
+					return -1;
 				}
 
-				if (excludedTags.size > 0) {
-					include = include && !mod.tags.some(tag => excludedTags.has(tag));
+				if (second.includes(search)) {
+					return 1;
 				}
 
-				return include;
-			})
-			.toSorted((a, b) => a.name.localeCompare(b.name)),
-	);
+				return levenshteinDistance(first, search) - levenshteinDistance(second, search);
+			});
+		}
+
+		return filtered.toSorted((a, b) => a.name.localeCompare(b.name));
+	});
 
 	function onmousedown(event: MouseEvent) {
 		if (
@@ -293,7 +316,7 @@
 		}
 
 		.title {
-			height: 3.5vw;
+			height: 3vw;
 			width: auto;
 		}
 	}
