@@ -48,6 +48,7 @@
 
 		.button {
 			width: 12vw;
+			gap: 1.5vw;
 		}
 
 		.buttons {
