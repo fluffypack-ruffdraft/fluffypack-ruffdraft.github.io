@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { levenshteinDistance } from "$lib";
 	import { SvelteSet } from "svelte/reactivity";
 	import background from "../../assets/images/background2.jpg";
 	import faq from "../../assets/images/faq.png";
@@ -8,6 +7,7 @@
 	import rejectedModsImage from "../../assets/images/rejected_mods.png";
 	import Icon from "../../components/Icon.svelte";
 	import Navbar from "../../components/Navbar.svelte";
+	import { levenshteinDistance } from "../../lib";
 	import { mods, rejectedMods, type ModTag } from "../../lib/mods";
 
 	let searchText = $state("");
