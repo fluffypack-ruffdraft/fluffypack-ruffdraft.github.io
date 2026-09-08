@@ -35,13 +35,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/651/940/256/256/638052962144828873.png",
 	},
 	{
-		name: "Additional Enchantment Miner",
-		tags: ["Tech"],
-		description: "Adds an automatic quarry miner.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner",
-		image: "https://media.forgecdn.net/avatars/thumbnails/132/624/256/256/636476962937919575.png",
-	},
-	{
 		name: "Additional Lights",
 		tags: ["Utility"],
 		description: "Adds several new types of light blocks.",
@@ -1221,13 +1214,6 @@ export default [
 		clientside: true,
 	},
 	{
-		name: "EveryCompat (Wood Good)",
-		tags: ["Compatibility"],
-		description: "Wood compatibility mod between many popular mods.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/every-compat",
-		image: "https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif",
-	},
-	{
 		name: "Everything is Copper",
 		tags: ["Utility"],
 		description: "Adds a bunch of copper blocks, such as doors and lanterns, that don't exist in 1.20.1.",
@@ -1275,13 +1261,6 @@ export default [
 		description: "An addon for Applied Energistics 2 that streamlines storage and crafting workflows.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1035/829/256/256/638560143803100066.png",
-	},
-	{
-		name: "Extended Industrialization",
-		tags: ["Tech", "Addon"],
-		description: "Addon for Modern Industrialization that adds new machines, power sources, tools, resources, and more.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/extended-industrialization",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1044/377/256/256/638571895356649024.png",
 	},
 	{
 		name: "Extra Disks",
@@ -1703,13 +1682,6 @@ export default [
 		description: "Addon for Industrial Foregoing that uses souls extracted from wardens to accelerate machines.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls",
 		image: "https://media.forgecdn.net/avatars/thumbnails/867/253/256/256/638280397869447589.png",
-	},
-	{
-		name: "Industrialization Overdrive",
-		tags: ["Addon", "Tech"],
-		description: "An addon for Modern Industrialization that adds new machines.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/industrialization-overdrive",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1065/899/256/256/638599639406925624.png",
 	},
 	{
 		name: "Integrated Crafting",
@@ -2293,13 +2265,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
 	},
 	{
-		name: "Modern Industrialization",
-		tags: ["Tech"],
-		description: "Massive but non-invasive industrial themed tech mod.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/modern-industrialization",
-		image: "https://media.forgecdn.net/avatars/thumbnails/298/282/256/256/637348455539175628.png",
-	},
-	{
 		name: "Modonomicon",
 		tags: ["Utility"],
 		description: "Extensible in-game documentation mod.",
@@ -2461,20 +2426,6 @@ export default [
 		description: "Adds 7 vibrant new biome into the overworld.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/mystics-biomes",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1076/148/256/256/638613577946634664.png",
-	},
-	{
-		name: "Mystical Agradditions",
-		tags: ["Magic", "Addon"],
-		description: "Addon for Mystical Agriculture that adds a new tier of essence, new tools, new crops, and more.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions",
-		image: "https://media.forgecdn.net/avatars/thumbnails/930/448/256/256/638403276390106828.png",
-	},
-	{
-		name: "Mystical Agriculture",
-		tags: ["Magic", "Highlight"],
-		description: "Adds crops for several resources in the game to make them renewable.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture",
-		image: "https://media.forgecdn.net/avatars/thumbnails/930/447/256/256/638403276234356700.png",
 	},
 	{
 		name: "Naturalist",
