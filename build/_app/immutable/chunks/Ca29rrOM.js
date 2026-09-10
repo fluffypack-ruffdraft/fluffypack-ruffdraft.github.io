@@ -1,0 +1,1 @@
+var e=``+new URL(`../assets/background2.Jb2I_yj1.jpg`,import.meta.url).href;export{e as t};
