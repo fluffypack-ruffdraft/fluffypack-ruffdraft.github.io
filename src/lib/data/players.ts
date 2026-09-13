@@ -80,11 +80,6 @@ export default [
 		minecraft: "lostatsie",
 	},
 	{
-		name: "Stella",
-		discord: "stxrphoria",
-		minecraft: "",
-	},
-	{
 		name: "Via",
 		discord: "PixelNebula303",
 		minecraft: "PixelNebula303",
