@@ -29,15 +29,33 @@
 	@import url("https://fonts.googleapis.com/css2?family=Jersey+25&display=swap");
 
 	main {
-		display: grid;
-		width: 70%;
 		margin-left: auto;
 		margin-right: auto;
 		margin-top: 5rem;
 		padding: 2rem;
-		gap: 3rem;
-		grid-template-columns: repeat(4, 1fr);
-		flex-wrap: wrap;
+	}
+
+	@media (orientation: landscape) {
+		main {
+			grid-template-columns: repeat(4, 1fr);
+			gap: 3rem;
+			width: 70%;
+			display: grid;
+		}
+	}
+
+	@media (orientation: portrait) {
+		main {
+			width: 90%;
+			display: flex;
+			flex-direction: column;
+			gap: 3rem;
+
+			img {
+				width: 30vw;
+				height: auto;
+			}
+		}
 	}
 
 	h2 {
@@ -85,8 +103,10 @@
 		h2 {
 			text-align: center;
 		}
+	}
 
-		img {
+	@media (orientation: landscape) {
+		.player img {
 			width: 5vw;
 			height: auto;
 		}
