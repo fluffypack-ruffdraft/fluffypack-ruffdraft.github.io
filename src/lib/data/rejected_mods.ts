@@ -55,12 +55,4 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/930/447/256/256/638403276234356700.png",
 		reason: "Discourages mining and resource management.",
 	},
-	{
-		name: "Regions Unexplored",
-		tags: ["Exploration", "Highlight"],
-		description: "A biome mod adding several new modded biomes and blocks into the world.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/regions-unexplored",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1834/402/256/256/639157038063200736.png",
-		reason: "Crashes the game on startup when added to the pack.",
-	},
 ];
