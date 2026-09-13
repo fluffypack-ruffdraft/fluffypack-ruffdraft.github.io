@@ -1346,13 +1346,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/46/154/256/256/636051356428336066.png",
 	},
 	{
-		name: "Forbidden and Arcanus",
-		tags: ["Magic"],
-		description: "Fantasy-supernatural RPG mod themed around occultism and mythology.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus",
-		image: "https://media.forgecdn.net/avatars/thumbnails/772/533/256/256/638112628921999420.png",
-	},
-	{
 		name: "Forgified Fabric API",
 		tags: ["Library"],
 		description: "Native Fabric API implementation for the NeoForge mod loader.",
