@@ -1,5 +1,10 @@
 export default [
 	{
+		name: "Alex",
+		discord: "stupidsleeby",
+		minecraft: "Sleeby01",
+	},
+	{
 		name: "Aliyah",
 		discord: "milkrats",
 		minecraft: "milkrats",
@@ -10,6 +15,11 @@ export default [
 		minecraft: "AsheYo",
 	},
 	{
+		name: "Chrono",
+		discord: "amonikatothewild",
+		minecraft: "ChronoLikeTime",
+	},
+	{
 		name: "Clara",
 		discord: "somsnoslara",
 		minecraft: "somsnoslara",
@@ -18,6 +28,11 @@ export default [
 		name: "Ira",
 		discord: "pedgoni",
 		minecraft: "communardira",
+	},
+	{
+		name: "Maya",
+		discord: "sl1dr",
+		minecraft: "sl1dr",
 	},
 	{
 		name: "Ryan",
@@ -65,6 +80,11 @@ export default [
 		minecraft: "lostatsie",
 	},
 	{
+		name: "Stella",
+		discord: "stxrphoria",
+		minecraft: "",
+	},
+	{
 		name: "Via",
 		discord: "PixelNebula303",
 		minecraft: "PixelNebula303",
@@ -73,5 +93,10 @@ export default [
 		name: "Violet",
 		discord: "vi.sceral._",
 		minecraft: "loser_violet",
+	},
+	{
+		name: "Zack",
+		discord: "goreganz",
+		minecraft: "goregans",
 	},
 ];
