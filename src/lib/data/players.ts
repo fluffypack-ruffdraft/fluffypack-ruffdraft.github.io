@@ -60,6 +60,11 @@ export default [
 		minecraft: "Kamazon_Prime",
 	},
 	{
+		name: "Kenny",
+		discord: "kensoranges",
+		minecraft: "kensoranges",
+	},
+	{
 		name: "Lexi",
 		discord: "froggalexis",
 		minecraft: "frojjer",
