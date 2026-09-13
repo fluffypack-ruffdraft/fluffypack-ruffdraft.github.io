@@ -2,6 +2,7 @@
 	<a href="/">Home</a>
 	<a href="/mods">Mods</a>
 	<a href="/map">Map</a>
+	<a href="/players">Players</a>
 	<a href="https://discord.gg/pD72nvskve" target="_blank" rel="noopener noreferrer">Discord</a>
 </nav>
 
