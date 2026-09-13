@@ -65,34 +65,39 @@
 
 	.discord {
 		background-image: linear-gradient(to bottom right, #5865f2, #3e48ad);
+		outline: 6px solid rgba(255, 255, 255, 50%);
+		outline-offset: -5px;
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		color: white;
-		font-family: "Nunito";
+		font-family: "Jersey 25";
+		font-size: 0.25rem;
 		gap: 1em;
 		padding: 0.5em 1em 0.5em 1em;
-		border-radius: 0.5em;
+		font-size: 1.25rem;
 		width: 100%;
 	}
 
 	.minecraft {
 		background-image: linear-gradient(to bottom right, #48e45c, #31b53e);
+		outline: 6px solid rgba(255, 255, 255, 50%);
+		outline-offset: -5px;
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		color: white;
-		font-family: "Nunito";
+		font-family: "Jersey 25";
 		gap: 1em;
 		padding: 0.5em 1em 0.5em 1em;
-		border-radius: 0.5em;
 		width: 100%;
+		font-size: 1.25rem;
 	}
 
 	.player {
 		padding: 2rem;
 		background-color: white;
-		box-shadow: 1rem 1rem 0px rgba(0, 0, 0, 30%);
+		box-shadow: 0.75rem 0.75rem 0px rgba(0, 0, 0, 30%);
 		display: flex;
 		flex-direction: column;
 		align-items: center;
