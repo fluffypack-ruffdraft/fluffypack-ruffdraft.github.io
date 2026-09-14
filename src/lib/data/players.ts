@@ -75,6 +75,11 @@ export default [
 		minecraft: "latHoly",
 	},
 	{
+		name: "Nat",
+		discord: "blunoble._",
+		minecraft: "BluNobles",
+	},
+	{
 		name: "Ollie",
 		discord: "tokkebeebee",
 		minecraft: "itsyoboiollie",
@@ -83,6 +88,16 @@ export default [
 		name: "Sierra",
 		discord: "lostatsie",
 		minecraft: "lostatsie",
+	},
+	{
+		name: "Sophia",
+		discord: "nongaro",
+		minecraft: "i8bra1ns",
+	},
+	{
+		name: "Stella",
+		discord: "stxrphoria",
+		minecraft: "Stxrphoria",
 	},
 	{
 		name: "Via",

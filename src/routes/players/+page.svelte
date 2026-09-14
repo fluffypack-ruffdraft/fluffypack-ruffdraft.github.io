@@ -9,7 +9,7 @@
 <img src={background} class="background" alt="Background" />
 <Navbar />
 <main>
-	{#each players as player}
+	{#each players.toSorted((a, b) => a.name.localeCompare(b.name)) as player}
 		<div class="player">
 			<img
 				src="https://mc-api.io/render/FULL/{player.minecraft}/JAVA?size=256"
