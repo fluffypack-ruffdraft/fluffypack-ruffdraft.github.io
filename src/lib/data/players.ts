@@ -15,6 +15,11 @@ export default [
 		minecraft: "AsheYo",
 	},
 	{
+		name: "Cara",
+		discord: "carameldotdog",
+		minecraft: "CaramelDrop",
+	},
+	{
 		name: "Chrono",
 		discord: "amonikatothewild",
 		minecraft: "ChronoLikeTime",
@@ -63,6 +68,11 @@ export default [
 		name: "Kenny",
 		discord: "kensoranges",
 		minecraft: "kensoranges",
+	},
+	{
+		name: "Kore",
+		discord: "number494",
+		minecraft: "Number494",
 	},
 	{
 		name: "Lexi",
