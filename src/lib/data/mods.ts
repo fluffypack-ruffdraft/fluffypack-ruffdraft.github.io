@@ -35,20 +35,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1014/514/256/256/638539820174809228.png",
 	},
 	{
-		name: "Ad Astra",
-		tags: ["Tech", "Exploration"],
-		description: "A space mod with a focus on technology, travel, and exploration.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/ad-astra",
-		image: "https://media.forgecdn.net/avatars/thumbnails/641/352/256/256/638043417933656861.png",
-	},
-	{
-		name: "Ad Astra: Giselle Addon",
-		tags: ["Tech", "Addon"],
-		description: "Adds random convenience and compatibility things to Ad Astra.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon",
-		image: "https://media.forgecdn.net/avatars/thumbnails/651/940/256/256/638052962144828873.png",
-	},
-	{
 		name: "Additional Lights",
 		tags: ["Utility"],
 		description: "Adds several new types of light blocks.",
@@ -61,13 +47,6 @@ export default [
 		description: "Adds tons of new structures to the world.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/additional-structures",
 		image: "https://media.forgecdn.net/avatars/thumbnails/184/697/256/256/636822870521647470.png",
-	},
-	{
-		name: "AdvancedAE",
-		tags: ["Tech", "Addon"],
-		description: "Convenience addon for Applied Energistics 2 for improving user experience with ME systems.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/advancedae",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1063/480/256/256/638596275604248137.png",
 	},
 	{
 		name: "Advanced Peripherals",
@@ -89,13 +68,6 @@ export default [
 		description: "Vanilla-style progression past netherite.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite",
 		image: "https://media.forgecdn.net/avatars/thumbnails/829/294/256/256/638217598154517104_animated.gif",
-	},
-	{
-		name: "AEInfinityBooster",
-		tags: ["Tech", "Addon"],
-		description: "Addon for Applied Energistics 2 that adds an infinite range card for terminals and devices.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster",
-		image: "https://media.forgecdn.net/avatars/thumbnails/470/562/256/256/637757699153918787.png",
 	},
 	{
 		name: "AE2 JEI Integration",
@@ -133,13 +105,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/936/318/256/256/638413744027351885_animated.gif",
 	},
 	{
-		name: "AllTheCompressed",
-		tags: ["Utility"],
-		description: "Adds 1-9x compressed versions of blocks for bulk storage.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/allthecompressed",
-		image: "https://media.forgecdn.net/avatars/thumbnails/419/700/256/256/637647195361574249.png",
-	},
-	{
 		name: "AllTheLeaks",
 		tags: ["Performance"],
 		description: "Fixes memory leaks from various mods for better performance.",
@@ -159,13 +124,6 @@ export default [
 		description: "Unifies equivalent materials across different mods.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/almostunified",
 		image: "https://media.forgecdn.net/avatars/thumbnails/560/421/256/256/637911433758832569.png",
-	},
-	{
-		name: "A Man With Plushies",
-		tags: ["Cosmetic"],
-		description: "Adds a bunch of plushies into the game.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/a-man-with-plushies",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1567/493/256/256/639016221404078400.png",
 	},
 	{
 		name: "Amendments",
@@ -274,13 +232,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/981/435/256/256/638488257660151687.png",
 	},
 	{
-		name: "Auroral",
-		tags: ["Magic"],
-		description: "A magic mod based on harnessing the power of the auroras of the sky.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/auroral",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1612/747/256/256/639040000693580595.png",
-	},
-	{
 		name: "Auroras",
 		tags: ["Cosmetic"],
 		description: "Adds cosmetic auroras to the sky.",
@@ -338,29 +289,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/293/27/256/256/637327750859254377.png",
 	},
 	{
-		name: "Bibliobiomes Legacy",
-		tags: ["Addon", "Compatibility"],
-		description:
-			"Addon for Bibliocraft Legacy that provides compatibility between biome mods (Biomes O' Plenty, Regions Unexplored, etc.) for Bibliocraft Legacy.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/bibliobiomes-legacy",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1210/30/256/256/638787692355878134.png",
-	},
-	{
-		name: "Bibliocraft Legacy",
-		tags: ["Cosmetic"],
-		description: "Adds tons of new furniture and blocks for cosmetics and building.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/bibliocraft-legacy",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1099/453/256/256/638646225221931547.png",
-	},
-	{
-		name: "Bibliowoods Legacy",
-		tags: ["Addon", "Compatibility"],
-		description:
-			"Addon for Bibliocraft Legacy that provides compatibility between several mods (Aether, Occultism, etc.) for Bibliocraft Legacy.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/bibliowoods-legacy",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1210/22/256/256/638787687966688328.png",
-	},
-	{
 		name: "Biomes O' Plenty",
 		tags: ["Exploration"],
 		description: "Adds tons of new biomes to the world.",
@@ -396,14 +324,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
 	},
 	{
-		name: "Borderless Window",
-		tags: ["Cosmetic"],
-		description: "Adds an option to play the game in a fullscreen borderless window.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/borderless",
-		image: "https://media.forgecdn.net/avatars/thumbnails/268/893/256/256/637240121973760207.png",
-		clientside: true,
-	},
-	{
 		name: "Botany Pots",
 		tags: ["Utility"],
 		description: "Adds simple botany pots with can automatically grow crops, flowers, and other plants.",
@@ -430,27 +350,6 @@ export default [
 		description: "Addon for Farmer's Delight that lets you brew or ferment many new foods.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin",
 		image: "https://media.forgecdn.net/avatars/thumbnails/564/35/256/256/637919784221963476.png",
-	},
-	{
-		name: "Building Gadgets",
-		tags: ["Utility"],
-		description: "Adds gadgets for building large structures",
-		link: "https://www.curseforge.com/minecraft/mc-mods/building-gadgets",
-		image: "https://media.forgecdn.net/avatars/thumbnails/161/452/256/256/636672128890190531.png",
-	},
-	{
-		name: "Byzantine Styles Pack for Minecolonies",
-		tags: ["Cosmetic", "Addon"],
-		description: "Adds new building styles for minecolonies.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/byzantine-styles-pack-for-minecolonies",
-		image: "https://media.forgecdn.net/avatars/thumbnails/948/343/256/256/638435499501153252.jpeg",
-	},
-	{
-		name: "Caelus API",
-		tags: ["Library"],
-		description: "Library mod that abstracts hardcoded vanilla elytra behavior into more generic attributes.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/caelus",
-		image: "https://media.forgecdn.net/avatars/thumbnails/181/894/256/256/636803819154686484.png",
 	},
 	{
 		name: "Camol",
@@ -566,25 +465,11 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/834/260/256/256/638224736286948659.png",
 	},
 	{
-		name: "Chroma Carvings",
-		tags: ["Cosmetic"],
-		description: "Adds colored carved pumpkins, jack o'lanterns, and snow golemns.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/chroma-carvings",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1403/751/256/256/638909779998717157_animated.gif",
-	},
-	{
 		name: "Citadel",
 		tags: ["Library"],
 		description: "A lightweight library.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/citadel-1-21-1-port",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1585/203/256/256/639025963417433066.png",
-	},
-	{
-		name: "Clean Swing Through Grass",
-		tags: ["Utility"],
-		description: "Allows swinging weapons through grass to hit mobs.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass",
-		image: "https://media.forgecdn.net/avatars/thumbnails/880/242/256/256/638309008314655528.png",
 	},
 	{
 		name: "Client Tweaks",
@@ -606,13 +491,6 @@ export default [
 		description: "Bunches XP orbs up into less but bigger orbs to improve performance.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/clumps",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
-	},
-	{
-		name: "Cobblegen Galore",
-		tags: ["Utility"],
-		description: "Adds new generators for blocks like cobblestone, basalt, obsidian, and more.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/cobblegen-galore",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1085/802/256/256/638627566324514346.png",
 	},
 	{
 		name: "Cobweb",
@@ -641,13 +519,6 @@ export default [
 		description: "Automatically patches supported shaderpacks at launch to be compatible with Colorwheel.",
 		link: "www.curseforge.com/minecraft/mc-mods/colorwheel-patcher",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1312/571/256/256/638853489185581299.png",
-	},
-	{
-		name: "Colossal Chests",
-		tags: ["Utility"],
-		description: "Adds massive multiblock chests with increased storage.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/colossal-chests",
-		image: "https://media.forgecdn.net/avatars/thumbnails/28/535/256/256/635829271511825665.png",
 	},
 	{
 		name: "Comforts",
@@ -713,13 +584,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
 	},
 	{
-		name: "Cooking for Blockheads",
-		tags: ["Utility"],
-		description: "Adds various utilities relating to cooking and food.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1979/168/256/256/639221218935522384.png",
-	},
-	{
 		name: "CorgiLib",
 		tags: ["Library"],
 		description: "Library mod for serialization utilities.",
@@ -783,13 +647,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png",
 	},
 	{
-		name: "Create: Dragons Plus",
-		tags: ["Utility", "Addon"],
-		description: "Adds various convenience features to the Create mod.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1195/420/256/256/638771027943462603.png",
-	},
-	{
 		name: "Create Crafts & Additions",
 		tags: ["Tech", "Addon"],
 		description: "Addon for Create that converts kinetic energy to electricity and vice versa.",
@@ -802,13 +659,6 @@ export default [
 		description: "Addon for Create that introduces new ocean-themed machines and production.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/create-aquatic-ambitions",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1196/46/256/256/638771655701162572.png",
-	},
-	{
-		name: "Create: Bells & Whistles",
-		tags: ["Tech", "Addon"],
-		description: "Addon for Create that introduces new blocks.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1068/437/256/256/638602929669872740.png",
 	},
 	{
 		name: "Create Deco",
@@ -937,13 +787,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/981/434/256/256/638488257462245625.jpeg",
 	},
 	{
-		name: "Decocraft",
-		tags: ["Cosmetic"],
-		description: "Adds tons of new decorative blocks.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/decocraft",
-		image: "https://media.forgecdn.net/avatars/thumbnails/915/598/256/256/638373717924319380.png",
-	},
-	{
 		name: "Deeper and Darker",
 		tags: ["Utility"],
 		description: "Enhances the Deep Dark, adding many new features and a new dimension.",
@@ -956,13 +799,6 @@ export default [
 		description: "Library mod for data generation and configuration.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/deimos-fabric-forge-neoforge",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1135/40/256/256/638696176433442820.png",
-	},
-	{
-		name: "Diagonal Fences",
-		tags: ["Cosmetic"],
-		description: "Connects diagonal fences placed in the world.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/diagonal-fences",
-		image: "https://media.forgecdn.net/avatars/thumbnails/852/544/256/256/638255494025114744.png",
 	},
 	{
 		name: "DimStorage",
@@ -984,20 +820,6 @@ export default [
 		description: "Addon for Farmer's Delight that lets you place foods in 3D.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/display-delight",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1121/885/256/256/638677404619124575.png",
-	},
-	{
-		name: "Distant Friends",
-		tags: ["Utility"],
-		description: "Adds ghost players that stare at you from a distance.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/distant-friends",
-		image: "https://media.forgecdn.net/avatars/thumbnails/791/412/256/256/638147677947851116.png",
-	},
-	{
-		name: "Domum Ornamentum",
-		tags: ["Cosmetic"],
-		description: "Adds a stonecutter-like block that can create several new block variants.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum",
-		image: "https://media.forgecdn.net/avatars/thumbnails/451/848/256/256/637714696197751039.png",
 	},
 	{
 		name: "Dungeon Crawl",
@@ -1035,13 +857,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/648/478/256/256/638050061778058149.png",
 	},
 	{
-		name: "Dyson Cube Project",
-		tags: ["Tech"],
-		description: "Adds a buildable Dyson Sphere megastructure for limitless energy.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/dyson-cube-project",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1449/72/256/256/638940048838871498.png",
-	},
-	{
 		name: "Ecologics",
 		tags: ["Exploration"],
 		description: "Improves vanilla biomes by adding new mobs, blocks, nad more.",
@@ -1056,32 +871,11 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/564/880/256/256/637921822106889418.png",
 	},
 	{
-		name: "Eidolon: Edoni",
-		tags: ["Compatibility"],
-		description: "Compatibility mod between Eidolon: Repraised and Farmer's Delight.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/eidolon-edoni",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1697/86/256/256/639077492752468800.png",
-	},
-	{
-		name: "Eidolon: Repraised",
-		tags: ["Magic"],
-		description: "Magic mod with spells, armor, summoning, and more.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/eidolon-repraised",
-		image: "https://media.forgecdn.net/avatars/thumbnails/827/813/256/256/638215067972572772.png",
-	},
-	{
 		name: "Emojiful",
 		tags: ["Cosmetic"],
 		description: "Adds emoji rendering to the ingame chat.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/emojiful",
 		image: "https://media.forgecdn.net/avatars/thumbnails/170/54/256/256/636719401079186770.png",
-	},
-	{
-		name: "Enchanted: Witchcraft",
-		tags: ["Magic"],
-		description: "Magic mod focused on occult practices and witchcraft, inspired by paganism and celtic folklore.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/enchanted-witchcraft",
-		image: "https://media.forgecdn.net/avatars/thumbnails/878/28/256/256/638304212454233114.png",
 	},
 	{
 		name: "Enchantment Descriptions",
@@ -1096,20 +890,6 @@ export default [
 		description: "Dense tech mod for creating armor, tools, weapons, machines, and more.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/ender-io",
 		image: "https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png",
-	},
-	{
-		name: "Ender Storage",
-		tags: ["Utility"],
-		description: "Adds chests that can be linked together based on matching colors.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8",
-		image: "https://media.forgecdn.net/avatars/thumbnails/133/874/256/256/636487132065959761.png",
-	},
-	{
-		name: "EnderDrives",
-		tags: ["Tech"],
-		description: "Adds digital drives that can store items in the end.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/enderdrives",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1205/889/256/256/638784047933812499.png",
 	},
 	{
 		name: "Enderman Overhaul",
@@ -1133,14 +913,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/438/747/256/256/637684787041768069.png",
 	},
 	{
-		name: "Entangled",
-		tags: ["Tech"],
-		description:
-			"Adds the ability to bind two blocks together, allowing you to interact with one as if they were the same block.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/entangled",
-		image: "https://media.forgecdn.net/avatars/thumbnails/167/41/256/256/636701259042778489.png",
-	},
-	{
 		name: "Environmental",
 		tags: ["Exploration"],
 		description: "General overworld surface expansion mod that encourages exploration.",
@@ -1160,21 +932,6 @@ export default [
 		description: "Adds a new dimension based on starlight.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/eternal-starlight",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1672/772/256/256/639063766489465214.png",
-	},
-	{
-		name: "Euphoria Patches",
-		tags: ["Utility", "Addon", "Cosmetic"],
-		description: "An addon for complementary shaders with optional handcrafted features.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/euphoria-patches",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png",
-		clientside: true,
-	},
-	{
-		name: "Everything is Copper",
-		tags: ["Utility"],
-		description: "Adds a bunch of copper blocks, such as doors and lanterns, that don't exist in 1.20.1.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/everythingcopper",
-		image: "https://media.forgecdn.net/avatars/thumbnails/493/221/256/256/637802781002490553.png",
 	},
 	{
 		name: "Excessive Utilities",
@@ -1304,25 +1061,11 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
 	},
 	{
-		name: "Field Guide",
-		tags: ["Utility"],
-		description: "Adds a field guide that logs creatures you've found.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/field-guide",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1693/816/256/256/639075099592572202.png",
-	},
-	{
 		name: "Fights & Frights",
 		tags: ["Utility"],
 		description: "Adds new vanilla-styled monsters.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/fightsfrights",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1886/236/256/256/639180444740243656.png",
-	},
-	{
-		name: "Fireproof Boats",
-		tags: ["Utility"],
-		description: "Adds boats that can be crafted from the nether wood types and used in lava.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/fireproof-boats",
-		image: "https://media.forgecdn.net/avatars/thumbnails/781/955/256/256/638128581697779385.png",
 	},
 	{
 		name: "FLIB",
@@ -1337,13 +1080,6 @@ export default [
 		description: "Removes the night-vision flicker effect when running out.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/flickerfix",
 		image: "https://media.forgecdn.net/avatars/thumbnails/326/421/256/256/637446364015821231.png",
-	},
-	{
-		name: "Flux Networks",
-		tags: ["Tech"],
-		description: "Adds wireless energy networks for managing energy flow.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/flux-networks",
-		image: "https://media.forgecdn.net/avatars/thumbnails/46/154/256/256/636051356428336066.png",
 	},
 	{
 		name: "Forgified Fabric API",
@@ -1479,13 +1215,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
 	},
 	{
-		name: "Generator Galore",
-		tags: ["Tech"],
-		description: "Adds a variety of simple generators.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/generatorgalore",
-		image: "https://media.forgecdn.net/avatars/thumbnails/624/859/256/256/638021179754785349.jpeg",
-	},
-	{
 		name: "Get It Together, Drops!",
 		tags: ["Performance"],
 		description: "Adds configuration options to control how dropped items combine on the ground for improved performance.",
@@ -1498,13 +1227,6 @@ export default [
 		description: "Adds small cute ghost creatures to the world.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/ghost",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1437/292/256/256/638931495735057839.png",
-	},
-	{
-		name: "Glassential: Renewed",
-		tags: ["Utility"],
-		description: "Adds several new types of glass, such as one-way glass, fluid glass, and more.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/glassential-renewed",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1619/89/256/256/639042179784307133.png",
 	},
 	{
 		name: "GlitchCore",
@@ -1612,13 +1334,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1989/323/256/256/639225429170606325.png",
 	},
 	{
-		name: "Immersive Energistics",
-		tags: ["Compatibility"],
-		description: "Compatibility mod between Immersive Engineering and Applied Energistics 2.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/immersive-energistics",
-		image: "https://media.forgecdn.net/avatars/thumbnails/969/40/256/256/638469618002997800.png",
-	},
-	{
 		name: "Immersive Engineering",
 		tags: ["Tech", "Highlight"],
 		description: "Realism-inspired engineering mod for power generation and equipment.",
@@ -1661,13 +1376,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png",
 	},
 	{
-		name: "Industrial Foregoing Souls",
-		tags: ["Tech", "Addon"],
-		description: "Addon for Industrial Foregoing that uses souls extracted from wardens to accelerate machines.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls",
-		image: "https://media.forgecdn.net/avatars/thumbnails/867/253/256/256/638280397869447589.png",
-	},
-	{
 		name: "Interactive Foliage",
 		tags: ["Cosmetic"],
 		description: "Adds natural movement to grass, flowers, crops, and other foliage.",
@@ -1701,13 +1409,6 @@ export default [
 		description: "Shaders!",
 		link: "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
-	},
-	{
-		name: "Iron Chests",
-		tags: ["Utility"],
-		description: "Adds higher tiers of chests that store more items.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/iron-chests",
-		image: "https://media.forgecdn.net/avatars/thumbnails/15/434/256/256/635625656444075090.png",
 	},
 	{
 		name: "Iron Furnaces",
@@ -1785,13 +1486,6 @@ export default [
 		description: "Addon for Jade that adds more information to blocks you're looking at.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/jade-addons",
 		image: "https://media.forgecdn.net/avatars/thumbnails/497/744/256/256/637814611670008374.png",
-	},
-	{
-		name: "Jonn's Trophies",
-		tags: ["Cosmetic"],
-		description: "Mobs drop trophies. 'Nuff said.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/jonns-trophies",
-		image: "https://media.forgecdn.net/avatars/thumbnails/413/247/256/256/637633895952350301.jpeg",
 	},
 	{
 		name: "JourneyMap",
@@ -1888,13 +1582,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1151/680/256/256/638719675384229378.png",
 	},
 	{
-		name: "KeybindsPurger",
-		tags: ["Utility"],
-		description: "Adds the ability to unset all keybindings in a category.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/keybindspurger",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1076/343/256/256/638613884004070339.png",
-	},
-	{
 		name: "Konkrete",
 		tags: ["Library"],
 		description: "Library mod for other Keksuccino mods.",
@@ -1914,13 +1601,6 @@ export default [
 		description: "Adds futuristic-styled laser bridges, doors, and fences.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/laser-bridges-doors",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1195/185/256/256/638770736607588151_animated.gif",
-	},
-	{
-		name: "LaserIO",
-		tags: ["Tech"],
-		description: "EnderIO, but with lasers!",
-		link: "https://www.curseforge.com/minecraft/mc-mods/laserio",
-		image: "https://media.forgecdn.net/avatars/thumbnails/551/252/256/256/637888550331569855.png",
 	},
 	{
 		name: "Legendary Tooltips",
@@ -2134,27 +1814,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/2010/898/256/256/639234543191971050.png",
 	},
 	{
-		name: "ME Requester",
-		tags: ["Tech", "Utility"],
-		description: "Addon for Applied Energistics 2 that makes it easy to keep items and fluids in your ME system stocked.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/merequester",
-		image: "https://media.forgecdn.net/avatars/thumbnails/621/707/256/256/638012892820321228.png",
-	},
-	{
-		name: "MineColonies",
-		tags: ["Utility"],
-		description: "Adds buildable towns that let you expand and gain leadership.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/minecolonies",
-		image: "https://media.forgecdn.net/avatars/thumbnails/41/680/256/256/635999200063962019.png",
-	},
-	{
-		name: "Mining Gadgets",
-		tags: ["Utility"],
-		description: "Adds a laser tool called a mining gadget for mining.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/mining-gadgets",
-		image: "https://media.forgecdn.net/avatars/thumbnails/236/843/256/256/637095475183524686.png",
-	},
-	{
 		name: "MmmMmmMmmMmm (Target Dummy)",
 		tags: ["Utility"],
 		description: "Adds a target dummy block that can measure damage dealt.",
@@ -2175,13 +1834,6 @@ export default [
 		link: "https://www.curseforge.com/minecraft/mc-mods/model-gap-fix",
 		image: "https://media.forgecdn.net/avatars/thumbnails/608/19/256/256/637986588749265452.png",
 		clientside: true,
-	},
-	{
-		name: "Modern Dynamics",
-		tags: ["Tech"],
-		description: "Modern item and fluid pipe mod.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/modern-dynamics",
-		image: "https://media.forgecdn.net/avatars/thumbnails/722/207/256/256/638076818567856341.png",
 	},
 	{
 		name: "ModernFix",
@@ -2210,20 +1862,6 @@ export default [
 		description: "Adds high-tech force fields that can keep out entities.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/mffs",
 		image: "https://media.forgecdn.net/avatars/thumbnails/781/872/256/256/638128453467942245_animated.gif",
-	},
-	{
-		name: "Modular Routers",
-		tags: ["Tech"],
-		description: "Adds several new ways to move around items.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/modular-routers",
-		image: "https://media.forgecdn.net/avatars/thumbnails/49/422/256/256/636077747385695421.png",
-	},
-	{
-		name: "Mahou Tsukai",
-		tags: ["Magic"],
-		description: "Magic mod based on unique spells and special effects.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai",
-		image: "https://media.forgecdn.net/avatars/thumbnails/226/708/256/256/637046797172980934.png",
 	},
 	{
 		name: "MonoLib",
@@ -2275,33 +1913,12 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/244/705/256/256/637147260943091072.png",
 	},
 	{
-		name: "More Industrial Foregoing Addons",
-		tags: ["Addon", "Tech"],
-		description: "Several addons for Industrial Foregoing bundled into one.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/mifa",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1062/895/256/256/638595600945014367.png",
-	},
-	{
 		name: "More Overlays Updated",
 		tags: ["Utility"],
 		description: "Adds toggleable block overlays for things like light levels and mob spawns.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated",
 		image: "https://media.forgecdn.net/avatars/thumbnails/281/235/256/256/637284767664087511.png",
 		clientside: true,
-	},
-	{
-		name: "More Red",
-		tags: ["Tech"],
-		description: "Adds redstone-based plate-shaped logic gate blocks.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/more-red",
-		image: "https://media.forgecdn.net/avatars/thumbnails/277/38/256/256/637268275199321868.png",
-	},
-	{
-		name: "More Red x CC:Tweaked Compat",
-		tags: ["Compatibility"],
-		description: "Compatibility mod between More Red and CC: Tweaked (Computercraft).",
-		link: "https://www.curseforge.com/minecraft/mc-mods/more-red-x-cc-tweaked-compat",
-		image: "https://media.forgecdn.net/avatars/thumbnails/824/374/256/256/638209403192702606.jpeg",
 	},
 	{
 		name: "Mo' Structures",
@@ -2331,13 +1948,6 @@ export default [
 		description: "Adds tons of new cosmetic furniture blocks.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture",
 		image: "https://media.forgecdn.net/avatars/thumbnails/934/904/256/256/638411339753659456.png",
-	},
-	{
-		name: "Multi-Piston",
-		tags: ["Tech"],
-		description: "Adds a multi-piston block that can suck in blocks from one side and enject them from another.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/multi-piston",
-		image: "https://media.forgecdn.net/avatars/thumbnails/171/453/256/256/636729549080063392.png",
 	},
 	{
 		name: "Mutant Monsters",
@@ -2375,13 +1985,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1948/981/256/256/639208588600998397.png",
 	},
 	{
-		name: "Nature's Aura",
-		tags: ["Magic"],
-		description: "A nature-based magic mod about using and replenshing the natural aura found in the world.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/natures-aura",
-		image: "https://media.forgecdn.net/avatars/thumbnails/177/702/256/256/636773126126869342.png",
-	},
-	{
 		name: "Nature's Compass",
 		tags: ["Utility", "Highlight"],
 		description: "Adds a compass that can locate biomes.",
@@ -2394,13 +1997,6 @@ export default [
 		description: "Library mod that adds a custom config system, utilities for datagen, and more.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/necronomicon",
 		image: "https://media.forgecdn.net/avatars/thumbnails/888/890/256/256/638327969824913874.png",
-	},
-	{
-		name: "Nenu's Pop Plushies",
-		tags: ["Cosmetic"],
-		description: "Adds several plushies into the game.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/nenus-pop-plushies",
-		image: "https://media.forgecdn.net/avatars/1712/631/639088573038743716.webp",
 	},
 	{
 		name: "NeoAuth",
@@ -2537,13 +2133,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/91/358/256/256/636247292369687944.png",
 	},
 	{
-		name: "Oracle Index",
-		tags: ["Utility"],
-		description: "In-game wiki and documentation viewer.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/oracle-index",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1185/54/256/256/638759035866531106.png",
-	},
-	{
 		name: "Oritech",
 		tags: ["Tech"],
 		description: "A techmod adding several new machines and tools for widely varying purposes.",
@@ -2594,13 +2183,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1171/464/256/256/638742785137894080.png",
 	},
 	{
-		name: "Pickle Tweaks",
-		tags: ["Utility"],
-		description: "Adds a lot of small tweaks and items to the game.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks",
-		image: "https://media.forgecdn.net/avatars/thumbnails/930/452/256/256/638403277172286298.png",
-	},
-	{
 		name: "Ping Wheel",
 		tags: ["Utility"],
 		description: "Adds a multiplayer-friendly ping wheel.",
@@ -2613,13 +2195,6 @@ export default [
 		description: "Adds item, fluid, energy, and gas pipes.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/pipez",
 		image: "https://media.forgecdn.net/avatars/thumbnails/342/357/256/256/637486273248094570.png",
-	},
-	{
-		name: "Pizza Delight",
-		tags: ["Addon", "Utility"],
-		description: "Addon for Farmer's Delight that adds pizza.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/pizza-delight",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1090/546/256/256/638634076691537105.png",
 	},
 	{
 		name: "Placebo",
@@ -2648,13 +2223,6 @@ export default [
 		description: "Adds tons of new plushies to the game.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/plushie-buddies",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1157/284/256/256/638725244908217964_animated.gif",
-	},
-	{
-		name: "Plushie Mod",
-		tags: ["Cosmetic"],
-		description: "Adds tons of new plushies to the game.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/plushie-mod",
-		image: "https://media.forgecdn.net/avatars/thumbnails/845/813/256/256/638244144195159760_animated.gif",
 	},
 	{
 		name: "PneumaticCraft: Repressurized",
@@ -2690,13 +2258,6 @@ export default [
 		description: "Addon for Polymorph that supports machines in Applied Energistics 2.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1158/108/256/256/638726388566280774.png",
-	},
-	{
-		name: "Powah! (Rearchitected)",
-		tags: ["Tech"],
-		description: "Tech mod based on generating and harnessing energy.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected",
-		image: "https://media.forgecdn.net/avatars/thumbnails/559/9/256/256/637907966393947503.png",
 	},
 	{
 		name: "Prickle",
@@ -2895,13 +2456,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1084/16/256/256/638625077586331829.png",
 	},
 	{
-		name: "Sawmill",
-		tags: ["Utility"],
-		description: "Adds a sawmill that can craft wooden... well, anything.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/sawmill",
-		image: "https://media.forgecdn.net/avatars/thumbnails/936/946/256/256/638414707400791480.png",
-	},
-	{
 		name: "Scalable Cat's Force",
 		tags: ["Library"],
 		description: "Library for mods written in Scala.",
@@ -2979,13 +2533,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/449/59/256/256/637707862652335104.png",
 	},
 	{
-		name: "Simple Magnets",
-		tags: ["Utility"],
-		description: "Adds magnets that pick up items and experience around the player.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/simple-magnets",
-		image: "https://media.forgecdn.net/avatars/thumbnails/284/883/256/256/637298985004395557.png",
-	},
-	{
 		name: "Simple Weather",
 		tags: ["Cosmetic"],
 		description: "Incorporates a more particle-driven system for rain and snow.",
@@ -3019,13 +2566,6 @@ export default [
 		description: "Addon for JEI that lets you view armor trims.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/smithing-template-viewer",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1111/59/256/256/638662502928358862.png",
-	},
-	{
-		name: "Snad",
-		tags: ["Utility"],
-		description: "Ads a block called snad that looks like sand and grows sugarcane faster.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/snad",
-		image: "https://media.forgecdn.net/avatars/thumbnails/33/601/256/256/635898410015593718.png",
 	},
 	{
 		name: "Sodium",
@@ -3204,20 +2744,6 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/792/344/256/256/638149338838738749.png",
 	},
 	{
-		name: "Sushi Go Crafting",
-		tags: ["Utility"],
-		description: "A food mod where you can make sushi.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/sushigocrafting",
-		image: "https://media.forgecdn.net/avatars/thumbnails/611/143/256/256/637994743156037694.png",
-	},
-	{
-		name: "Sussy Sniffers",
-		tags: ["Utility"],
-		description: "Changes the sniffer in small but useful ways.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/sussy-sniffers",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1060/130/256/256/638591709352381770.png",
-	},
-	{
 		name: "SWAY API",
 		tags: ["Library"],
 		description: "API for realistic foliage interaction and deformation.",
@@ -3225,32 +2751,11 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/1852/66/256/256/639164572700778278.png",
 	},
 	{
-		name: "Tectonic",
-		tags: ["Exploration"],
-		description: "World generation project that transforms how terrain is shaped.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/tectonic",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1294/335/256/256/638841311022857637.png",
-	},
-	{
-		name: "Tempad",
-		tags: ["Tech"],
-		description: "Adds immersive teleportation mechanics through various intuitive and thematic items.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/tempad",
-		image: "https://media.forgecdn.net/avatars/thumbnails/500/177/256/256/637818622588372032_animated.gif",
-	},
-	{
 		name: "TerraBlender",
 		tags: ["Library"],
 		description: "Library mod for adding biomes in a simple and compatible manner.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge",
 		image: "https://media.forgecdn.net/avatars/thumbnails/907/934/256/256/638359485944942119.png",
-	},
-	{
-		name: "Terralith",
-		tags: ["Exploration"],
-		description: "Changes terrain generation drastically.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/terralith",
-		image: "https://media.forgecdn.net/avatars/thumbnails/554/659/256/256/637897033487568646.png",
 	},
 	{
 		name: "Tesseract API",
@@ -3265,13 +2770,6 @@ export default [
 		description: "Adds a new heavenly dimension called The Aether.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/aether",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1703/748/256/256/639082233915502452.png",
-	},
-	{
-		name: "The Bumblezone",
-		tags: ["Exploration"],
-		description: "Adds a new bee-themed dimension.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge",
-		image: "https://media.forgecdn.net/avatars/thumbnails/1329/823/256/256/638864447012340947.png",
 	},
 	{
 		name: "The Twilight Forest",
@@ -3309,25 +2807,11 @@ export default [
 		image: "https://media.forgecdn.net/avatars/thumbnails/105/330/256/256/636352185216944005.png",
 	},
 	{
-		name: "Tool Belt",
-		tags: ["Utility"],
-		description: "Adds a tool belt.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/tool-belt",
-		image: "https://media.forgecdn.net/avatars/thumbnails/88/400/256/256/636223857507356095.png",
-	},
-	{
 		name: "Towns and Towers",
 		tags: ["Exploration"],
 		description: "Creats new village-like structures in the world.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/towns-and-towers",
 		image: "https://media.forgecdn.net/avatars/thumbnails/551/161/256/256/637888384577155054.png",
-	},
-	{
-		name: "TownTalk",
-		tags: ["Exploration", "Addon"],
-		description: "Addon for MineColonies that makes your villages thrive in discussion.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/towntalk",
-		image: "https://media.forgecdn.net/avatars/thumbnails/862/543/256/256/638271112823359130.png",
 	},
 	{
 		name: "Transfer Labels",
@@ -3349,13 +2833,6 @@ export default [
 		description: "Adds a trash slot to your inventory that deletes items.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/trashslot",
 		image: "https://media.forgecdn.net/avatars/thumbnails/1517/435/256/256/638985436964149736.png",
-	},
-	{
-		name: "Tree Tap",
-		tags: ["Utility"],
-		description: "Lets you extract fluid from trees with a bucket.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/treetap",
-		image: "https://media.forgecdn.net/avatars/thumbnails/895/421/256/256/638340049065219614.png",
 	},
 	{
 		name: "Twigs",
@@ -3517,41 +2994,6 @@ export default [
 		description: "Adds a bunch of modern and futuristic building blocks.",
 		link: "https://www.curseforge.com/minecraft/mc-mods/xtones-reworked",
 		image: "https://media.forgecdn.net/avatars/thumbnails/89/38/256/256/636229039734109684.png",
-	},
-	{
-		name: "XyCraft",
-		tags: ["Library"],
-		description: "Core mod for XyCraft mods.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/xycraft",
-		image: "https://media.forgecdn.net/avatars/thumbnails/597/707/256/256/637974897701013308.png",
-	},
-	{
-		name: "XyCraft",
-		tags: ["Library"],
-		description: "Core mod for XyCraft mods.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/xycraft",
-		image: "https://media.forgecdn.net/avatars/thumbnails/597/707/256/256/637974897701013308.png",
-	},
-	{
-		name: "XyCraft: Machines",
-		tags: ["Tech"],
-		description: "Machines module for XyCraft.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/xycraft-machines",
-		image: "https://media.forgecdn.net/avatars/thumbnails/884/628/256/256/638318987583142561.png",
-	},
-	{
-		name: "XyCraft: Override",
-		tags: ["Cosmetic"],
-		description: "Provides alternative appearances to some vanilla blocks.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/xycraft-override",
-		image: "https://media.forgecdn.net/avatars/thumbnails/597/771/256/256/637975018215872951.png",
-	},
-	{
-		name: "XyCraft: World",
-		tags: ["Exploration"],
-		description: "World generation module for XyCraft.",
-		link: "https://www.curseforge.com/minecraft/mc-mods/xycraft-world",
-		image: "https://media.forgecdn.net/avatars/thumbnails/597/769/256/256/637975016974953299.png",
 	},
 	{
 		name: "Yeetus Experimentus",
