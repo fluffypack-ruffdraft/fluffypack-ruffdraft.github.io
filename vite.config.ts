@@ -8,10 +8,17 @@ export default defineConfig({
 			compilerOptions: {
 				runes: ({ filename }) => (filename.split(/[/\\]/).includes("node_modules") ? undefined : true),
 			},
+			prerender: {
+				handleHttpError: ({ path, referrer, message }) => {
+					if (path === "/map" || path.startsWith("/www")) {
+						return;
+					}
 
-			adapter: adapter({
-				fallback: "404.html",
-			}),
+					throw new Error(message);
+				},
+			},
+
+			adapter: adapter({}),
 		}),
 	],
 });
